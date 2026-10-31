@@ -28,7 +28,7 @@ export default function Home() {
     {
       icon: SiGithub,
       text: "Github",
-      url: "https://github.com/Fijero",
+      url: "https://github.com/devuzoma",
     },
     {
       icon: SiX,
