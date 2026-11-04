@@ -77,7 +77,7 @@ export default function Home() {
         },
         {
           name: "Web",
-          url: "https://secretshare.fijero.dev/",
+          url: "https://secretshare.uzoma.dev/",
         },
       ],
     },
@@ -90,7 +90,7 @@ export default function Home() {
       platforms: [
         {
           name: "Web",
-          url: "https://short-url.fijero.dev/",
+          url: "https://short-url.uzoma.dev/",
         },
       ],
     },
@@ -103,7 +103,7 @@ export default function Home() {
       platforms: [
         {
           name: "Android",
-          url: "https://fijero.dev/",
+          url: "https://uzoma.dev/",
         },
       ],
     },
