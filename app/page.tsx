@@ -68,7 +68,7 @@ export default function Home() {
     {
       name: "Secret Share",
       desc: "Share .env serets securely. Push, get code and share code to your receiver to pull the .env.",
-      github: "https://github.com/Fijero/secret-share",
+      github: "https://github.com/devuzoma/secret-share",
       stack: ["Typescript", "GO"],
       platforms: [
         {
@@ -85,7 +85,7 @@ export default function Home() {
     {
       name: "URL Shortener",
       desc: "Convert long URL into short one, launch and get redirected in under 50ms.",
-      github: "https://github.com/Fijero/url-shortener",
+      github: "https://github.com/devuzoma/url-shortener",
       stack: ["React", "Nest JS", "TypeScript"],
       platforms: [
         {
@@ -98,7 +98,7 @@ export default function Home() {
     {
       name: "Doofy",
       desc: "Food Allergy and Nutrition Alert Mobile App",
-      github: "https://github.com/Fijero/doofy",
+      github: "https://github.com/devuzoma/doofy",
       stack: ["Flutter", "Dart", "Firebase"],
       platforms: [
         {
