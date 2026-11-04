@@ -66,6 +66,19 @@ export default function Home() {
     },
 
     {
+      name: "URL Shortener",
+      desc: "Convert long URL into short one, launch and get redirected in under 50ms.",
+      github: "https://github.com/devuzoma/url-shortener",
+      stack: ["React", "Nest JS", "TypeScript"],
+      platforms: [
+        {
+          name: "Web",
+          url: "https://short-url.uzoma.dev/",
+        },
+      ],
+    },
+
+    {
       name: "Secret Share",
       desc: "Share .env serets securely. Push, get code and share code to your receiver to pull the .env.",
       github: "https://github.com/devuzoma/secret-share",
@@ -78,19 +91,6 @@ export default function Home() {
         {
           name: "Web",
           url: "https://secretshare.uzoma.dev/",
-        },
-      ],
-    },
-
-    {
-      name: "URL Shortener",
-      desc: "Convert long URL into short one, launch and get redirected in under 50ms.",
-      github: "https://github.com/devuzoma/url-shortener",
-      stack: ["React", "Nest JS", "TypeScript"],
-      platforms: [
-        {
-          name: "Web",
-          url: "https://short-url.uzoma.dev/",
         },
       ],
     },
